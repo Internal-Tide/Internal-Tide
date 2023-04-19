@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!-- <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
-</p> -->
+
 
 <p align="center">
   <a href="https://space.bilibili.com/12767066">
