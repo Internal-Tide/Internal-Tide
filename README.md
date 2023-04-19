@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Internal-Tide&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Internal-Tide" /> </div>
+ <img src="https://github-profile-trophy.vercel.app/?username=Internal-Tide" /> </div>
 
 
 [![Jivi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Internal-Tide&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
