@@ -6,6 +6,6 @@
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Internal-Tide" /> </div>
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Internal-Tide" /> </div>
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Internal-Tide&theme=xcode" /> </div>
+[![Jivi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Internal-Tide&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
