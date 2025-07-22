@@ -9,6 +9,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Internal-Tide&theme=radical&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Internal-Tide/Internal-Tide/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
 <h3 align="center">🛠️ 我使用的语言和工具:</h3>
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="shell" width="40" height="40"/> </a>
